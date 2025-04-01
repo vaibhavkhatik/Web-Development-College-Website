@@ -23,3 +23,28 @@ This **College Website** is a dynamic web application designed to showcase an in
    ```sh
    git clone https://github.com/your-username/Web-Development-College-Website.git
    cd Web-Development-College-Website
+
+2️⃣ Import the Database
+Open phpMyAdmin.
+
+Create a new database and import database.sql.
+
+3️⃣ Configure Database Connection
+Open config.php and update database credentials.
+
+4️⃣ Run on Local Server
+Start Apache & MySQL using XAMPP or WAMP.
+
+Open a browser and visit:
+
+sh
+Copy
+Edit
+http://localhost/your-project-folder/
+🔥 Future Enhancements
+✅ Student Portal – Secure login for students & faculty.
+✅ Online Admission System – Digital application process.
+✅ Enhanced UI/UX – Smooth animations & interactive elements.
+
+🤝 Contributing
+Contributions are welcome! Feel free to fork this repository, improve features, or submit pull requests.
